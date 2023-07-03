@@ -1,0 +1,183 @@
+.Home {
+  width: 1920px;
+  height: 853px;
+  position: relative;
+  background: linear-gradient(0deg, white 0%, white 100%);
+  background-image: url(https://via.placeholder.com/1920x853);
+}
+
+.Hero {
+  width: 1140px;
+  height: 390px;
+  left: 148px;
+  top: 237px;
+  position: absolute;
+}
+
+.DivElementorHeadingTitle {
+  width: 1120px;
+  height: 134px;
+  left: 10px;
+  top: 10px;
+  position: absolute;
+}
+
+.WithDigitalTransformationInMindPartnerWithIbmExpertsToScaleAiModelsFitForYourBusiness {
+  width: 712px;
+  height: 57px;
+  left: 8px;
+  top: 168px;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 32px;
+  word-wrap: break-word;
+}
+
+.DivElementorWidgetContainer {
+  padding-bottom: 10.19px;
+  padding-left: 5px;
+  padding-right: 662px;
+  left: 5px;
+  top: 293px;
+  position: absolute;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 28px;
+  display: inline-flex;
+}
+
+.Link {
+  width: 238px;
+  height: 59px;
+  position: relative;
+  background: #FA6401;
+  border-radius: 30px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.DesignYourStrategy {
+  color: white;
+  font-size: 18px;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25.20px;
+  word-wrap: break-word;
+}
+
+.Vector {
+  width: 11.13px;
+  height: 10.38px;
+  background: white;
+}
+
+.Icon {
+  width: 12px;
+  height: 12px;
+  position: relative;
+}
+
+.MeetWatsonx {
+  color: white;
+  font-size: 18px;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 25.20px;
+  word-wrap: break-word;
+}
+
+.ScaleYourEnterpriseAiCapabilities {
+  width: 656px;
+  height: 148px;
+  left: 153px;
+  top: 229px;
+  position: absolute;
+  color: white;
+  font-size: 58px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 67px;
+  word-wrap: break-word;
+}
+
+.Header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 28.02px;
+  left: 148px;
+  top: 0;
+  position: absolute;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  justify-content: flex-start;
+  align-items: center;
+  gap: 906.14px;
+  display: inline-flex;
+}
+
+.Text {
+  color: #FA6401;
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.Navbar {
+  width: 554.14px;
+  height: 48px;
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.AboutUs {
+  color: white;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.Icon {
+  width: 11px;
+  height: 28px;
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.Vector {
+  width: 10.18px;
+  height: 5.52px;
+  background: white;
+}
+
+.Blog {
+  color: white;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.Navlink {
+  color: white;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
